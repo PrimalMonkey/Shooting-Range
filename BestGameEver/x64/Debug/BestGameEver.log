@@ -1,0 +1,14 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.13.0/5.13.0/msvc2017_64/bin/qmake)
+  uic BestGameEver.ui
+  uic GameArea.ui
+  rcc BestGameEver.qrc
+  moc BestGameEver.h
+  moc GameArea.h
+  Plate.cpp
+  BestGameEver.cpp
+  GameArea.cpp
+  main.cpp
+  qrc_BestGameEver.cpp
+  moc_BestGameEver.cpp
+  moc_GameArea.cpp
+  BestGameEver.vcxproj -> C:\Users\Админ\Desktop\BestGameEver\x64\Debug\BestGameEver.exe
